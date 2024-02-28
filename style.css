@@ -1,0 +1,94 @@
+i.hed{
+    color: white;
+    margin-top: 2%;
+}
+.hed{
+    font-size: medium;
+}
+carousel-inner img{
+    width:100%;
+    height: 100%;
+}
+h5{
+    font-size: 85px;
+}
+.card{
+    background-color: lightgrey;
+}
+.progress-bar{
+    background-color: orangered;
+}
+h4{
+    color: orangered;
+    font-style:bold;
+}
+.container-fluid.forest{
+    background-image: url(forest.avif);
+
+}
+small{
+    color: white;
+}
+.btn.don{
+    position: absolute;
+    top: 75%;
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    background-color: orangered;
+}
+i.med{
+    color:white;
+    background-color: orangered;
+    height: 100%;
+    width:50vh
+    border-radius:25px;
+}
+.container-fluid.map
+{
+    background-image: url(map2.jpg);
+    width: auto;
+}
+.btn.ler{
+    background-color: white;
+}
+.btn.join{
+    background-color: orangered;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+}
+
+span{
+    color: orangered;
+}
+p.par{
+    color: white;
+}
+a.foot,p.foot,i.foot,a.hed{
+    color: white;
+}
+a.active{
+    color: orangered;
+}
+.col-sm-4.d{
+    
+    
+    
+    background-color: rgba(0, 0, 0, 0.656);
+    width: 30%;
+    margin-top: 100px;
+}
+.col-sm-4.dm{
+   
+    right:61%;
+    
+    
+    width: 30%;
+    
+}
+.row.foot{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left: -15px;
+}
